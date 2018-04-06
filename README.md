@@ -1,2 +1,0 @@
-# ndkutz
-ND Kutz Website
