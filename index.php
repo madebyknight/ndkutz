@@ -64,7 +64,7 @@
             </div>
         </div>
         <!--Services Section Body-->
-        <div class="container padtops padbtms">
+        <div class="container padbtms">
             <div class="row upper text-center">
                 
 
