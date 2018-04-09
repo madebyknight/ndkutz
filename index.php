@@ -9,6 +9,7 @@
 }
 </style>
     <body>
+<header>
         <!--Navbar LARGE-->
         <div class="hidden-md-down" style="padding-top: 3.9em"></div>
         <nav class="navbar bkg-white navbar-toggleable-lg fixed-top hidden-sm-down">
@@ -34,6 +35,7 @@
         </nav>
         
         <!--Header Image LARGE-->
+	<section role="banner">
         <div class="bkg-img height-4 container-fluid hidden-md-down" style="padding-bottom: 5em;">
             <div class="row padtop">
                 <div class="col-md-12 text-center padtops">
@@ -47,9 +49,10 @@
                 </div>
             </div>
         </div>
-        
+	</section>
+</header>
         <!--Services Section Heading LARGE-->
-        <section class="bkg-red height-4 hidden-md-down fullh" id="services">
+        <section class="bkg-red height-4 hidden-md-down fullh" id="services" data-section-info="local barshop services">
         <div class="container">
             <div class="row">
                 <div class="col-md-4" style="padding-top: 1em">
@@ -138,7 +141,7 @@
         </section>
         
         <!--Barber Seciton Heading LARGE-->
-        <section class="bkg-black hidden-md-down fullh" id="barbers">
+        <section class="bkg-black hidden-md-down fullh" id="barbers" data-section-info="local barbers">
         <div class="container">
             <div class="row" style="padding-top: 1.1em">
                 <div class="col-md-4">
@@ -237,7 +240,7 @@
         </section>
         
         <!--Contact Seciton Heading LARGE-->
-        <section class="bkg-red hidden-md-down fullh">
+        <section class="bkg-red hidden-md-down fullh" data-section-info="contact a barber">
         <div class="container" id="contact">
             <div class="row">
                 <div class="col-md-4">
@@ -291,6 +294,7 @@
         </section>
         
         <!--Footer Section LARGE--> <!--Footer Section LARGE-->
+     <footer>
         <div class="container-fluid bkg-black txt-white upper pad-sm hidden-md-down" style="height: 4em">
             <div class="row">
                 <div class="col-md-8 offset-md-2 text-center">
@@ -302,6 +306,7 @@
                 </div>
             </div>
         </div>
+     </footer>
 <!-- 
 SMALL VERSION! 
 SMALL VERSION! 
