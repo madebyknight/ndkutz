@@ -1,13 +1,13 @@
+<?php
+        include('header.php');
+?>
+
 <style>
 .bkg-img-3{
 	background-image: url("images/015.png");
     	background-repeat: repeat;
 }
 </style>
-<html>
-    <?php
-        include('header.php');
-    ?>
     <body>
         <!--Navbar LARGE-->
         <div class="hidden-md-down" style="padding-top: 3.9em"></div>
