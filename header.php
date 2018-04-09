@@ -1,6 +1,8 @@
+<!DOCTYPE html>
 <html>
-<head>
+    <head>
 	<title>ND Kutz Barbershop</title>
+	<meta charset="UTF-8">
 	<meta name="apple-mobile-web-app-capable" content="yes" />
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 	
@@ -16,4 +18,4 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
         <script src="home.js" type="text/javascript"></script>
    </head>
- </html>
+
